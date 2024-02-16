@@ -14,9 +14,6 @@ The utility function-based sum of ranking differences (uSRD) method is proposed 
  - Ranks country performance in GHG and ecological performance (better economical indicators with less GHG emissions), referred to as Clean development utility score in the publication. Generated data ([mapData.xlsx](./mapData.xlsx)) for maps with the scores ()
  - Links utility values with mitigation actions to form a recommender system to country-specific emissions portfolio.
 
-
-
-
 ## Contact
 If you have any questions or proposals concerning this work, reach out to one of the following authors:
  - Ádám Ipkovich - ipkovichadam@gmail.com
@@ -26,6 +23,7 @@ If you have any questions or proposals concerning this work, reach out to one of
 
 ## Cite as
 If the work has been used in an application, we kindly ask you to cite as follows (note, this was uploaded during proof reading where whe have not yet been given doi.):
+
 ### General
 Á. Ipkovich, K. Héberger, V. Sebestyén and J. Abonyi, Utility function-based generalization of sum of ranking differences--country-wise analysis of greenhouse gas emissions. Ecological Indicators. 2024.
 
@@ -42,12 +40,10 @@ If the work has been used in an application, we kindly ask you to cite as follow
  year  = {2024},
  doi = {}
  }
- 
-
 
 
 ## Previous version
-Previous version can be found here, which was inaccessable during the proofing procedure. We recommend to check out other works of HUN-REN-PE Complex Systems Monitoring Research Group, here as well:
-https://github.com/abonyilab/Preproc_SRD.git
-If you used the previous code, please cite it as shown above.
+[Previous version can be found here](https://github.com/abonyilab/Preproc_SRD.git), which was inaccessable during the proofing procedure. We recommend to check out other works of HUN-REN-PE Complex Systems Monitoring Research Group, [here](https://github.com/abonyilab). If you used the previous code, please cite it as shown above.
+
+
 
