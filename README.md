@@ -19,10 +19,10 @@ The utility function-based sum of ranking differences (uSRD) method is proposed 
 
 ## Contact
 If you have any questions or proposals concerning this work, reach out to one of the following contracts:
-Ádám Ipkovich - ipkovichadam@gmail.com
-János Abonyi - janos@abonyilab.com
-Viktor Sebestyén - sebestyenv@almos.uni-pannon.hu 
-Károly Héberger - heberger.karoly@ttk.hu
+ - Ádám Ipkovich - ipkovichadam@gmail.com
+ - János Abonyi - janos@abonyilab.com
+ - Viktor Sebestyén - sebestyenv@almos.uni-pannon.hu 
+ - Károly Héberger - heberger.karoly@ttk.hu
 
 ## Cite as
 If the work has been used in an application, we kindly ask you to cite as follows (note, this was uploaded during proof reading where whe have not yet been given doi.):
